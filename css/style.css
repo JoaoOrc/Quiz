@@ -11,7 +11,13 @@ Customização para as paginas de pontuação e de exibição das questões
     background-color:white;
    
 }
-
+.tamanho-area-quest{
+    width: 920px;
+    height: 560px;
+    background-color: white;
+    margin:5px 0px;
+    position: relative;
+}
 .customizar-row{
     border: solid white 1px;
 }
