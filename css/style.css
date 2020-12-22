@@ -1,0 +1,17 @@
+body {
+    background-color: #3F3771;
+    padding: 20px;
+}
+/**
+Customização para as paginas de pontuação e de exibição das questões
+**/
+.botoes-customizacao {
+    border-radius: 20px;
+    color: #3F3771;
+    background-color:white;
+   
+}
+
+.customizar-row{
+    border: solid white 1px;
+}
