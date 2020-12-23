@@ -12,12 +12,36 @@ Customização para as paginas de pontuação e de exibição das questões
    
 }
 .tamanho-area-quest{
-    width: 920px;
-    height: 560px;
+    width: 60em;
+    height: 33em;
     background-color: white;
     margin:5px 0px;
     position: relative;
 }
 .customizar-row{
     border: solid white 1px;
+}
+.customizar-row2{
+    border: solid yellow 2px;
+}
+.quest{
+    border: solid red 1px;
+    position: relative;
+    height: 50%;
+    width: 90%;
+    margin: 10px 0px;
+    padding: 10px 0px;
+    text-align: justify;
+}
+.alternativas{
+    border: solid red 1px;
+    position: relative;
+    height: 45%;
+    width: 90%;
+    margin: 10px 0px;
+    padding: 10px 0px;
+    text-align: left;
+}
+div ol li{
+    
 }
